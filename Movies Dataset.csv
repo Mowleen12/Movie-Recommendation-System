@@ -1,0 +1,100 @@
+Index,Name,Year,IMDB,Critic_score,Genre,  G_C,N_W_Award,Filmfare_AWARD,Budget,Box_office_collection,Time_duration
+1,Samrat Prithviraj,2022,6.1,3,"Action, Drama, History",UA,0,0,100,,
+2,Tanhaji,2020,7.5,4,"Action, Biography,Drama, History",UA,2,2,125,367,135
+3,Shershaah,2021,8.3,4,"Action, Biography,Drama, War",UA,1,3,55,NA,135
+4,Badhaai Do,2022,7,3.5,"Crime, Drama",UA,0,1,35,28.33,147
+5,Dasvi,2022,7.4,3,"Comedy, Drama",UA,0,0,30,NA,125
+6,Mimi,2021,7.8,3.5,"Comedy, Drama",UA,1,1,30,NA,133
+7,Jhund,2022,7.4,3.5,"Biography, Drama, Sport",UA,0,1,22,20,176
+8,Panga,2020,6.8,3.5,"Drama, sport",UA,0,0,30,41,131
+9,Bhangra Paa Le,2020,6.3,2.5,"Comedy, Drama, Music",UA,0,0,20,1.5,131
+10,Suraj Pe Mangal Bhari,2020,5.9,2.5,Comedy,UA,0,0,30,4,139
+11,Chhalaang,2020,6.7,3,"Comedy, Drama, Sport",UA,0,0,25,NA,136
+12,AK vs AK,2020,6.9,3.5,"Dark Comedy, Action, Crime, Drama, Thriller",NA,0,0,20,NA,108
+13,Torbaaz,2020,5.1,2,"Action, Drama, Sport, Thriller",UA,0,0,25,NA,133
+14,Dil Bechara,2020,8.3,3,"Comedy, Drama, Romance",UA,1,2,25,NA,101
+15,Lootcase,2020,7.5,3.5,"Dark Comedy, Crime, Comedy",UA,0,0,20,NA,132
+16,Raat Akeli Hai,2020,7.2,3.5,"Crime, Drama, Mystry, Thriller",NA,0,0,20,NA,149
+17,Class of 83,2020,5.8,2.5,"Action, Crime, Drama, Thriller",NA,0,0,18,NA,98
+18,Court Martial,2020,7,3,Drama,NA,0,0,NA,NA,137
+19,Bulbbul,2020,6.6,4,"Drama, Horror, Mystry",NA,0,0,30,NA,94
+20,Gunjan Saxena: The Kargil Girl,2020,5.5,3.5,"Action, Biography, drama, War",UA,1,3,40,NA,112
+21,Angrezi Medium,2020,7.2,3,"Comedy, Drama",UA,0,1,36,13,145
+22,Ludo,2020,7.6,4,"Dark Comedy, Action, Crime, Drama, Comedy",UA,0,1,24,NA,150
+23,Malang,2020,6.5,2.5,"Action, Crime, Drama, Thriller, Romance",A,0,0,60,84.5,135
+24,Guns of Banaras,2020,5.8,1.5,Action,UA,0,0,25,2,132
+25,Bhoot: Part One - The Haunted Ship,2020,5.4,2,"Horror, Mystry, Thriller",A,0,0,30,36,114
+26,Shubh Mangal Zyada Saavdhan,2020,5.8,3,"Comedy, Crime, Romance",UA,0,0,30,86.4,120
+27,Yaara,2020,5.9,2.5,"Action, Crime, Drama",A,0,0,20,NA,130
+28,Khuda Haafiz,2020,7.1,3,"Action, Crime, Drama, Thriller",A,0,0,15,NA,134
+29,London Confidential,2020,5.9,2.5,"Crime, Drama, Thriller",NA,0,0,NA,NA,77
+30,Halahal,2020,7,3,"Crime, Drama, Mystry, Thriller",NA,0,0,NA,NA,97
+31,Comedy Couple,2020,7.3,3,"Comedy, Romance",NA,0,0,NA,NA,116
+32,Kaagaz,2020,7.3,3.5,"Biography,Drama, Comedy",UA,0,0,7,NA,109
+33,Fauji Calling,2020,5.4,2.5,Drama,UA,0,0,NA,0.27,124
+34,Mumbai Saga,2021,5.8,2.5,"Action, Crime, History",A,0,0,50,22.29,125
+35,Pagglait,2021,6.9,3.5,"Comedy, Drama",UA,0,0,NA,NA,114
+36,Silence: Can You Hear It,2021,6.5,3,"Crime, Thriller",UA,0,0,NA,NA,136
+37,Hello Charlie,2021,5.4,2,Comdey,UA,0,0,25,NA,102
+38,The Big Bull,2021,5.6,2.5,"Biography, Crime, Drama, Mystry",UA,0,0,30,NA,153
+39,Ajeeb Daastaans,2021,6.7,3,"Drama, Romance",NA,1,1,NA,NA,142
+40,Shaadisthan,2021,5.6,2.5,"Drama, Musical",UA,0,0,NA,NA,93
+41,Collar Bomb,2021,5.1,2.5,"Action, Thriller",UA,0,0,10,NA,86
+42,Haseen Dillruba,2021,6.9,3,"Crime, Drama, Mystry, Romance, Thriller",A,0,0,12,NA,135
+43,Sherni,2021,6.8,4,"Action, Adventure, Drama, Thriller",UA,1,1,35,NA,130
+44,Dial 100,2021,5.9,3,"Action, Thriller",UA,0,0,20,NA,104
+45,Toofaan,2021,6.1,2.5,"Boxing, Action, Drama, Sport",UA,0,0,50,NA,161
+46,State of Siege: Temple Attack,2021,7.7,3,"Action, Thriller",UA,0,0,NA,NA,110
+47,Chehre,2021,6.2,2.5,"Drama, Mystry, Thriller",UA,0,0,35,6.5,139
+48,200: Halla Ho,2021,7.5,3.5,"Crime, History, Thriller",A,0,0,NA,NA,115
+49,Bhoot Police,2021,6.7,2.5,"Parody, Comedy, Horror",UA,0,0,NA,NA,128
+50,Helmet,2021,6.5,2.5,"Comedy, Drama",UA,0,0,10,NA,104
+51,Shiddat,2021,7.6,2.5,Romance,UA,0,0,15,NA,146
+52,Sanak,2021,6.6,3,"Action, Thriller",A,0,0,15,NA,117
+53,Rashmi Rocket,2021,7.2,3.5,"Drama, Sport",UA,0,1,20,NA,129
+54,Bhavai,2021,5.7,3.5,"Drama, Romance",UA,0,0,9,1.4,113
+55,Sooryavanshi,2021,5.9,2,"Action, Crime, Drama, Thriller",UA,0,0,165,294,145
+56,Hum Do Hamare Do,2021,6,2.5,Comedy,UA,0,0,NA,NA,129
+57,Dhamaka,2021,6.8,3,"Action, crime, drama, Thriller",UA,0,0,35,NA,104
+58,Chandigarh Kare Aashiqui,2021,6.7,3.5,"Crime, Drama",UA,0,0,40,38,117
+59,Tadap,2021,5.1,2.5,"Action, Drama, Thriller, Romance",A,0,1,20,34,126
+60,Chhorii,2021,6.7,3.5,"Drama, Horror, Thriller",A,0,0,10,NA,129
+61,Velle,2021,5.9,2.5,"Comedy, Crime, Drama",UA,0,0,8,3.3,124
+62,Waah Zindagi,2021,5.6,3,"Comedy, Drama , Musical",UA,0,0,5,NA,130
+63,Looop Lapeta,2022,5.2,2,"Action, Comedy, Crime, Romance, Thriller",UA,0,0,20,NA,131
+64,Bachchhan Paandey,2022,5,3.5,"Dark Comedy, Action, Comedy, crime, Drama",UA,0,0,180,73,147
+65,Toolsidas Junior,2022,7.4,3.5,"Drama, Family, Sport",UA,1,1,NA,NA,132
+66,Love Hostel,2022,5.8,3.5,"Action, Crime, Romance, Thriller",A,0,1,20,NA,101
+67,Jersey,2022,7.3,3.5,"Drama, Sport",UA,0,0,110,27,170
+68,Hurdang,2022,5.3,3.5,"Drama, Romance",UA,0,0,,,
+69,Attack,2022,6.8,3,"Action, Sci-fi, Thriller",A,0,0,65,22,123
+70,Sharmaji Namkeen,2022,7.5,3.5,"Comedy, Drama, Family",UA,0,1,20,NA,119
+71,Jals,2022,6.6,3.5,"Drama, Thriller",NA,0,0,NA,NA,97
+72,Anek,2022,6.4,3,"Action, Drama, Sport, Thriller",UA,0,0,35,8.15,147
+73,Jayeshbhai Jordaar,2022,6,2.5,"Comedy, Drama",UA,0,0,35,15.59,124
+74,Thar,2022,6.1,3,"Contemporary Western, Action, Crime, Drama",A,0,0,NA,NA,108
+75,Mere Desh Ki Dharti,2022,6.9,3,"Comedy, Drama",UA,0,0,5,0.5,111
+76,Operation Romeo,2022,6.4,3,"Drama, Mystry",A,0,0,NA,NA,136
+77,Janhit Mein Jaari,2022,6.8,3,"Comedy, Drama, Romance",UA,0,0,20,4.28,146
+78,Forensic,2022,6.3,2.5,"Crime, Thriller ",UA,0,0,NA,NA,134
+79,Jug Jugg Jeeyo,2022,6.1,3.5,"Comedy, Drama, Family, Rmance",UA,0,0,85,85.03,148
+80,Sherdil,2022,6.6,2.5,"Comedy, Drama",UA,0,0,NA,0.1,121
+81,Khuda Haafiz: Chapter 2 - Agni Pariksha,2022,7.4,3,"Action, Crime, Drama, Romance, Thriller",A,0,0,22,20,139
+82,Hit: The First Case,2022,6.8,3,"Police Procedural, Action, Crime, Drama, Mystry,Thriller",UA,0,0,30,10.5,136
+83,A Thursday,2022,7.6,3.5,"Drama, Thriller",A,0,0,10,NA,129
+84,Sumeru,2022,7.1,4,"Musical, Romance",UA,0,0,NA,NA,135
+85,The Kashmir Files,2022,8.6,3,Drama,A,0,0,20,340,170
+86,Bob Biswas,2022,6.7,2.5,"Action, Crime, Drama, Thriller",UA,0,0,25,NA,131
+87,Shamshera,2022,4.7,3,"Action, Adventure, Drama",UA,0,0,150,63,159
+88,Shabaash Mithu,2022,5.6,3,"Biography, Drama, Sport",UA,0,0,30,3.33,156
+89,Bamfaad,2022,5.8,3.5,Romance,A,0,0,NA,NA,167
+90,Nail Polish,2022,7.2,3.5,Drama,A,0,0,12,NA,128
+91,Gangubai Kathiawadi,2022,7.8,4,"True Crime, Biography, Crime, Drama",A,0,3,180,211.5,154
+92,Atrangi Re,2022,6.5,3.5,"Comedy, Drama, Fantasy, Musical, Romance",UA,0,1,100,NA,138
+93,Atkan Chatkan,2022,7.7,3.5,"Drama, Musical",UA,0,0,NA,NA,123
+94,Good Luck Jerry,2022,5.5,3.5,"Comedy, Crime, Drama",UA,0,0,20,NA,119
+95,Gehraiyaan,2022,5.8,3,"Drama, Romance",A,0,2,70,NA,148
+96,Jawaani Jaaneman,2022,6.5,3.5,"Comedy, Drama, Family",UA,0,0,30,455,119
+97,Bhool Bhulaiyaa 2,2022,5.7,3,"Comedy, Horror",UA,0,2,65,266.88,143
+98,Raksha Bandhan,2022,5.4,3,"Comedy, Drama, Family",UA,0,0,70,44,108
+99,Raat Baaki Hai,2021,5.1,2.5,"Drama, Thriller",A,0,0,NA,NA,89
