@@ -31,4 +31,5 @@ The dataset used is **Movies Dataset.csv**, which includes:
    ```bash
    pip install pandas numpy streamlit scikit-learn
 2. To run the application:
+   ```bash
    streamlit run movie_recommendation_system.py
