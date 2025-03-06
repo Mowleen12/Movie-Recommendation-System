@@ -6,7 +6,7 @@
 The **Movie Recommendation System** is a machine learning-based application that suggests movies based on user preferences. Built with **Streamlit**, it allows users to choose a genre and set a minimum critic score for personalized recommendations. The system uses a **Random Forest Classifier** for accurate predictions.  
 
 ## 🛠 Features  
-✅ **User-Created Dataset**: Built using Microsoft Excel.  
+✅ **Indian Movies Dataset**: The dataset consists of Indian movies across various genres.  
 ✅ **Genre-Based Recommendations**: Users select a genre, and the system suggests relevant movies.  
 ✅ **Critic Score Filtering**: Users can set a minimum critic score to refine recommendations.  
 ✅ **Machine Learning Model**: Uses a **Random Forest Classifier** and **OneHotEncoder**.  
